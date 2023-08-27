@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/VishalKumar369/VishalKumar369/blob/main/Banner.gif) -->
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*IRGHmiGsa16stedQvIaZfw.gif">
 
