@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [TravlPoint Venture](https://www.travlpoint.com/)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript**,**Next.js**
 
 - 💬 Ask me about **React.js, Redux, UI/UX Designing**
 
