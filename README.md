@@ -56,9 +56,9 @@ https://www.youtube.com/playlist?list=PLC3y8-rFHvwiaOAuTtVXittwybYIorRB3
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
- <p align="center" display = "flex">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" alt="GitHub Streak" />
+<p align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
