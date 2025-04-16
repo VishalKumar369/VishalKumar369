@@ -1,18 +1,18 @@
 <!-- ![logo](https://github.com/VishalKumar369/VishalKumar369/blob/main/Banner.gif) -->
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*IRGHmiGsa16stedQvIaZfw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkumar369&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkumar369" /> </p>
 
-- 🔭 I’m currently working on [TravlPoint Venture](https://www.travlpoint.com/)
+<!-- - 🔭 I’m currently working on [TravlPoint Venture](https://www.travlpoint.com/)  -->
 
 - 🌱 I’m currently learning **TypeScript**,**Next.js**
 
 - 💬 Ask me about **React.js, Redux, UI/UX Designing**
 
-- 📫 How to reach me **vishalarya2468@gmail.com**
+- 📫 How to reach me **vishal369mehta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -51,9 +51,17 @@
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
 
-<p  align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalkumar369&show_icons=true&locale=en&layout=compact" alt="vishalkumar369" /></p>
+  # 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+  <br/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <br/>
+</p>
 
-<p align='center' height='100'>&nbsp;<img align="center"  width='400' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vishalkumar369&show_icons=true&locale=en" alt="vishalkumar369" /> <img align="center"  width='420' src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar369&" alt="vishalkumar369" /></p>
+---
+
 
 <!-- <p><img align="right"  width='360' src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar369&" alt="vishalkumar369" /></p> -->
 
