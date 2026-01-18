@@ -56,13 +56,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </p>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img width="400" src="https://nirzak-streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" alt="GitHub Streak" />
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img height="180" src="https://streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
+
 
 ---
 
 
 <!-- <p><img align="right"  width='360' src="https://github-readme-streak-stats.herokuapp.com/?user=vishalkumar369&" alt="vishalkumar369" /></p> -->
+
 
