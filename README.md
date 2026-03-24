@@ -1,6 +1,6 @@
 <!-- ![logo](https://github.com/VishalKumar369/VishalKumar369/blob/main/Banner.gif) -->
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
+<h3 align="center">Software Engineer | Building Scalable & High-Performance Web Applications</h3>
 
 <img align="right" alt="coding" width="400" src="https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*IRGHmiGsa16stedQvIaZfw.gif">
 
@@ -8,9 +8,11 @@
 
 <!-- - 🔭 I’m currently working on [TravlPoint Venture](https://www.travlpoint.com/)  -->
 
-- 🌱 I’m currently learning **TypeScript**,**Next.js**
+- 💼 Software Engineer with 1+ year of professional experience building scalable web applications.
+  
+- 🌱 Currently enhancing skills in **System Designs, cloud & DevOps fundamentals**
 
-- 💬 Ask me about **React.js, Redux, UI/UX Designing**
+- 💬 Ask me about **Next.js, React.js, Redux, UI/UX Designing and Full Stack Development**
 
 - 📫 How to reach me **vishal369mehta@gmail.com**
 
