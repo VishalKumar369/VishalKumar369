@@ -1,4 +1,3 @@
-<!-- ![logo](https://github.com/VishalKumar369/VishalKumar369/blob/main/Banner.gif) -->
 <h1 align="center">Hi 👋, I'm Vishal Kumar</h1>
 <h3 align="center">Software Engineer | Building Scalable & High-Performance Web Applications</h3>
 
