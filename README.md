@@ -9,9 +9,9 @@
 
 - 💼 Software Engineer with 1+ year of professional experience building scalable web applications.
   
-- 🌱 Currently enhancing skills in **System Designs, cloud & DevOps fundamentals**
+- 🌱 Learning and applying **System Design, Distributed Systems & AI Systems Architecture**.
 
-- 💬 Ask me about **Next.js, React.js, Redux, UI/UX Designing and Full Stack Development**
+<!--  - 💬 Ask me about **Next.js, React.js, Redux, UI/UX Designing and Full Stack Development** -->
 
 - 📫 How to reach me **vishal369mehta@gmail.com**
 
@@ -24,6 +24,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
@@ -31,21 +34,14 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/-Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-%23000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Chart.js](https://img.shields.io/badge/-Chart.js-F5788D?style=flat-square&logo=chart.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Vercel](https://img.shields.io/badge/-Vercel-%23ffffff?style=flat-square&logo=vercel&logoColor=000000)
@@ -53,12 +49,12 @@
 
 
   # 📊 GitHub Stats:
-  <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+  <div align="center">
+  <img src="https://github-readme-stats-psi-nine-44.vercel.app/api/top-langs/?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img width="400" src="https://streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" />
-  <img width="365" src="https://github-readme-stats.vercel.app/api?username=vishalkumar369&theme=dark&hide_border=false" />
-</p>
+  <img width="365" src="https://github-readme-stats-psi-nine-44.vercel.app/api?username=vishalkumar369&theme=dark&hide_border=false" />
+</div>
 
