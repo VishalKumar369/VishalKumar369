@@ -17,11 +17,13 @@
 - 📫 How to reach me **vishal369mehta@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/vishalkumar5121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishalk92173300" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vishal-kumar-09633b22b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-kumar-09633b22b" height="30" width="40" /></a>
-<a href="https://instagram.com/vishalarya24682021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vishalarya24682021" height="30" width="40" /></a>
-</p>
+<table>
+  <tr>
+    <td><a href="https://twitter.com/vishalkumar5121" target="blank" ><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/vishal-kumar-09633b22b" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a></td>
+    <td><a href="https://instagram.com/vishalarya24682021" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a></td>
+  </tr>
+</table>
 
 <h3 align="left">Languages and Tools:</h3>
 
