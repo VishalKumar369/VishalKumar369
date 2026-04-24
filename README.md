@@ -58,6 +58,6 @@
 
 <div align="center" style="display: flex; justify-content: center; align-items: center;">
   <img width="400" src="https://streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" />
-  <img width="365" src="https://github-readme-stats-psi-nine-44.vercel.app/api?username=vishalkumar369&theme=dark&hide_border=false" />
+  <img width="365" src="https://github-readme-stats-psi-nine-44.vercel.app/api?username=vishalkumar369&theme=dark&hide_border=false&v=1" />
 </div>
 
