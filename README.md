@@ -50,8 +50,11 @@
 ![Netlify](https://img.shields.io/badge/-Netlify-%2300C7B7?style=flat-square&logo=netlify&logoColor=ffffff)
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff)
 
-
   # 📊 GitHub Stats:
+  <div align="center" style="display: flex; justify-content: center; align-items: center;">
+  <img width="400" src="https://streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" />
+</div>
+<!-- - 
   <div align="center">
   <img src="https://github-readme-stats-psi-nine-44.vercel.app/api/top-langs/?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
@@ -61,3 +64,4 @@
   <img width="365" src="https://github-readme-stats-psi-nine-44.vercel.app/api?username=vishalkumar369&theme=dark&hide_border=false&v=1" />
 </div>
 
+-->
