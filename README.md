@@ -55,7 +55,7 @@
   <img width="400" src="https://streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" />
 </div>
 <!-- - 
-  <div align="center">
+  <div >
   <img src="https://github-readme-stats-psi-nine-44.vercel.app/api/top-langs/?username=vishalkumar369&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
 </div>
 
