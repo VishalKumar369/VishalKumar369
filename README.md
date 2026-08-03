@@ -11,7 +11,7 @@
   
 - 🌱 Learning and applying **System Design, Distributed Systems & AI Systems Architecture**.
 
-<!--  - 💬 Ask me about **Next.js, React.js, Redux, UI/UX Designing and Full Stack Development** -->
+<!--  - 💬 Ask me about **Next.js, React.js, Redux, UI/UX Designing and Full Stack Development* -->
 
 - 📫 How to reach me **vishal369mehta@gmail.com**
 
