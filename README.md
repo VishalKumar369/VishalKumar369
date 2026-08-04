@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishalkumar369&label=Profile%20views&color=0e75b6&style=flat" alt="vishalkumar369" /> </p>
 
-<!-- - 🔭 I’m currently working on [TravlPoint Venture](https://www.travlpoint.com/)  -->
+<!-- - 🔭 I’m currently working on [TravlPoint Venture](https://www.travlpoint.com/) - -->
 
 - 💼 Software Engineer with 1+ year of professional experience building scalable web applications.
   
