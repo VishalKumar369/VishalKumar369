@@ -10,8 +10,10 @@
 - 💼 Software Engineer with 1+ year of professional experience building scalable web applications.
   
 - 🌱 Learning and applying **System Design, Distributed Systems & AI Systems Architecture**.
+  
+- 🤖 Building GenAI applications using LLMs, RAG, AI Agents, MCP & Vector Databases.
 
-<!--  - 💬 Ask me about **Next.js, React.js, Redux, UI/UX Designing and Full Stack Development* -->
+<!-- - - 💬 Ask me about **Next.js, React.js, Redux, UI/UX Designing and Full Stack Development*. - -->
 
 - 📫 How to reach me **vishal369mehta@gmail.com**
 
