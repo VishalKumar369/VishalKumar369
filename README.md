@@ -26,7 +26,7 @@
   </tr>
 </table>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Tech Stack:</h3>
 
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
