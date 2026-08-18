@@ -88,14 +88,6 @@
 </div>
 
 
-<!-- <div align="center">
-  <img src="https://github-readme-trophies.vercel.app/?username=vishalkumar369&theme=darkhub&no-frame=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies"/>
-</div> -->
-
-<!-- <div align="center">
-  <img  src="https://github-readme-activity-graph.vercel.app/graph?username=vishalkumar369&theme=react-dark&hide_border=false" alt="Activity Graph" width="70%"/>
-</div> -->
-
 ---
 
 ### 🌐 Connect With Me
