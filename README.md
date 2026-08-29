@@ -79,7 +79,7 @@
 
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=vishalkumar369&show_icons=true&theme=dark&hide_border=false&count_private=true" alt="GitHub Stats" height="165"/> -->
+
   <img src="https://streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" alt="GitHub Streak" height="165"/>
 </div>
 
