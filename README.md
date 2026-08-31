@@ -72,12 +72,6 @@
 
 ## 📊 GitHub Analytics
 
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishalkumar369&show_icons=true&theme=dark&hide_border=false&count_private=true&rank_icon=github" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalkumar369&layout=compact&theme=dark&hide_border=false" alt="Top Languages" height="180"/>
-</div> -->
-
-
 <div align="center">
 
   <img src="https://streak-stats.vercel.app/?user=vishalkumar369&theme=dark&hide_border=false" alt="GitHub Streak" height="165"/>
