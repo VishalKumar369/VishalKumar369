@@ -7,7 +7,6 @@
 <a href="https://linkedin.com/in/vishal-kumar-09633b22b"><img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+web+applications;Architecting+GenAI+%26+RAG+systems;Always+shipping%2C+always+learning;Open+to+new+opportunities&font=Fira+Code&center=true&width=520&height=45&color=0e75b6&vCenter=true&size=22" alt="Typing SVG" /></a>
 
 <br/>
-
 <img src="https://komarev.com/ghpvc/?username=vishalkumar369&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 <a href="https://linkedin.com/in/vishal-kumar-09633b22b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0e75b6?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:vishal369mehta@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
